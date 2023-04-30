@@ -1,0 +1,19 @@
+.events-control {
+  text-align: center;
+  border: 1px solid blueviolet;
+  padding: 3rem;
+  margin: 2rem auto;
+  width: 30rem;
+  max-width: 80%;
+}
+
+.events_list-item {
+  margin: 1rem 0;
+  padding: 1rem;
+  border: 1px solid blueviolet;
+}
+.tit {
+  font-weight: bold;
+  text-align: center;
+  color: rgb(82, 14, 147);
+}
